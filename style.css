@@ -65,4 +65,23 @@ nav a:hover::before {
 
 .smiths {
     float: right;
+    border: solid #222;
+    border-radius: 10px;
 }
+
+img {
+    float: none;
+    border: solid #222;
+    border-radius: 10px;
+}
+
+figcaption {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    columns: 1;
+    text-align: right;
+}
+
